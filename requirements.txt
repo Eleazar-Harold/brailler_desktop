@@ -9,7 +9,7 @@ modulegraph==0.16
 pefile==2017.11.5
 py2app==0.14
 PyInstaller==3.6
-Werkzeug==0.15.3
+Werkzeug==2.2.3
 mypy
 isort
 flake8
